@@ -1,1 +1,1 @@
-![alt text](https://github.com/KondratenkoMS/SQL_learning/blob/main/SQL_course_stepik/stepik-certificate-63054-3ca080f%20.pdf)
+![alt text](https://github.com/KondratenkoMS/SQL_learning/blob/main/SQL_course_stepik/2022-03-11_14-19-37.png)
